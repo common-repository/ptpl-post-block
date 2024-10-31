@@ -1,0 +1,22 @@
+/*settings styles*/
+#toplevel_page_ptpl-post-block-settings a:hover img{
+	 -ms-transform: rotatey(180deg); /* IE 9 */
+    -webkit-transform: rotatey(180deg); /* Chrome, Safari, Opera */
+    transform: rotatey(180deg);
+	-webkit-transition-duration: 2s; /* Safari */
+    transition-duration: 2s;
+	}
+	
+#toplevel_page_ptpl-post-block-settings a img {
+	-webkit-transition-duration: 2s; /* Safari */
+    transition-duration: 2s;
+	}
+#ptpl_fb_like_message ,#ptpl_google_plus_page_url , #ptpl_fb_like_page_url{
+	width:400px;}
+#ptpl_fb_like_message {
+	height:100px;}
+#ptpl_fb_like_timer{ 
+	width:60px;}
+	
+	
+	
